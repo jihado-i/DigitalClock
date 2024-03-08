@@ -1,7 +1,7 @@
 # Digital Clock
 
-![Digital Clock Preview](link_to_live_preview_here)
-/
+![image](https://github.com/jihado-i/DigitalClock/assets/81075046/d9b6d801-8c0a-4c46-a39f-bafe8cc35ad4)
+
 A simple digital clock implementation using HTML, CSS, and JavaScript.
 
 ## Features
@@ -10,8 +10,7 @@ A simple digital clock implementation using HTML, CSS, and JavaScript.
 - Automatically updates every second to reflect the current time.
 
 ## Preview
-
-[Live Preview](link_to_live_preview_here)
+[[live Preview](https://jihado-i.github.io/DigitalClock/)]
 
 ## Installation
 
