@@ -6,6 +6,7 @@ A simple digital clock implementation using HTML, CSS, and JavaScript.
 
 ## Features
 
+
 - Displays current time in hours, minutes, and seconds.
 - Automatically updates every second to reflect the current time.
 
