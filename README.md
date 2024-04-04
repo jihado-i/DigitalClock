@@ -15,6 +15,7 @@ A simple digital clock implementation using HTML, CSS, and JavaScript.
 
 ## Installation
 
+
 1. Clone the repository:
 
    ```bash
